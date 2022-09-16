@@ -1,5 +1,5 @@
 # study7hr # โปรแกรมเพิ่มตัวเลขทุกครั้งที่กดปุ่ม
-ทำตามคลิปของอาจาย์ KongRuksiam 
+ทำตามคลิปของอาจารย์ KongRuksiam (youtube : KongRuksiam Official)
 
 Flutter project.
 

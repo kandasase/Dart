@@ -1,6 +1,6 @@
 # study7hr # โปรแกรมเพิ่มตัวเลขทุกครั้งที่กดปุ่ม
-
-A new Flutter project.
+ทำตามคลิปของอาจาย์ KongRuksiam 
+Flutter project.
 
 อ้างอิงรูปจาก :
 guscats. “แมวน่ารัก.” [Online]. เข้าถึงได้จาก : https://guscats.com/ 17 กันยายน 2565. 
